@@ -1,10 +1,8 @@
 - 👋 Hi, I’m wonderwaffles!
-- 👀 I’m interested in secure codes, ethical hacking, and cats! 
+- 👀 I’m interested in securing systems, ethical hacking, and cats! 
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: uhmmmm...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: one of my hobbies is buying books. reading is another thing. LOL
+- 📫 How to reach me: discord @wonderwaffol
 
 <!---
 teusjoy/teusjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
