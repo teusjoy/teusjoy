@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wonderwaffles!
+- 👋 Hi, I’m wonderwaffol!
 - 👀 I’m interested in securing systems, ethical hacking, and cats! 
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on projects.
