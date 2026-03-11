@@ -1,5 +1,5 @@
 - 👋 Hi, I’m wonderwaffol!
-- 👀 I’m interested in securing systems, ethical hacking, and cats! 
+- 👀 I’m interested in defending and securing systems, ethical hacking, and cats! 
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: discord @wonderwaffol
